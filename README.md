@@ -18,3 +18,16 @@ The server still has some limitations/problems
 # No login UI mod
 
 Copy the `ui/` and `stringtables/` to the `game/` folder in your HoN install. Edit `stringtables/client_messages_en.str` (notepad works) and replace Maliken in the first line with your game name.
+Hint: This is optional. You can still connect to the game if you re not logged in. The annoying Login Screen will disappear if you are ingame.
+
+# Easy Instruction
+
+- open the server
+- connect from your client
+- do the startserver command
+
+# Available Maps
+"caldavar", "midwars", "riftwars", "grimmscrossing", "prophets", "thegrimmhunt", "capturetheflag", "devowars", "random", "team_deathmatch"
+
+# Available Gamemodes:
+"ap", "sd", "bd", "bp", "ar", "br", "lp", "bb", "gt", "apg", "bbg", "km"
